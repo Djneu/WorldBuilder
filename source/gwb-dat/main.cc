@@ -71,7 +71,7 @@ int main(int argc, char **argv)
   std::string wb_file;
   std::string data_file;
 
-  unsigned int dim = 3;
+  unsigned int dim = 2;
   unsigned int compositions = 0;
   unsigned int grain_compositions = 0;
   size_t n_grains = 0;
